@@ -1,0 +1,15 @@
+# ignore rules 
+__history/
+__recovery/
+html/
+latex/
+Win32/
+/*.ps
+/*.py
+/*.png
+/*.txt
+/*.old
+/*.pl
+/*.gv
+/*.dot
+
